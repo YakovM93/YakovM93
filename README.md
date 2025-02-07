@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yakov Mishayev
 - 👀 I’m interested in AI
-- 🌱 I’m currently Master student
+- 🌱 I’m currently Masters student
 - 📫 How to reach me -yakov1593@gmail.com
 
 <!---
