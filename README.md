@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @YakovM93
-- 👀 I’m interested in machine learning and software engineering
-- 🌱 I’m currently research assistant
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Yakov Mishayev
+- 👀 I’m interested in AI
+- 🌱 I’m currently Master student
 - 📫 How to reach me -yakov1593@gmail.com
 
 <!---
