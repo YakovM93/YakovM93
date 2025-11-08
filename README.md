@@ -3,7 +3,7 @@
 ## 🎓 About Me
 - 🔬 **Master's Student** in Applied Mathematics at Technion – Israel Institute of Technology
 - 📚 **Research Focus**: Graph Neural Networks and solving real-world oversquashing problems in Message Passing Neural Networks
-- 🎯 **Career Goal**: Transitioning from academia to industry as an AI Engineer/Applied Scientist
+- 🎯 **Career Goal**: Transitioning from academia to industry as an Algorithm engineer 
 - 💼 **Seeking Roles**: AI Engineer | Applied Scientist | Algorithm Engineer | AI Researcher
 
 ## 👀 Professional Interests
