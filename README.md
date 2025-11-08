@@ -24,7 +24,7 @@
 - **Specialization**: GNN architectures, Transformer models, computer vision, 3D vision, DSP
 
 ## 🏆 Key Achievements
-- 🎤 **Oral Presentation** at The Fourth Learning on Graphs Conference (LoG 2024) - [Paper](https://openreview.net/pdf?id=rmX8Jamnyg)
+- 🎤 **Oral Presentation** at The Fourth Learning on Graphs Conference (LoG 2025) - [Paper](https://openreview.net/pdf?id=rmX8Jamnyg)
 - 📝 Paper accepted: "Short-Range Oversquashing in Message Passing Neural Networks"
 
 ## 📫 Let's Connect!
