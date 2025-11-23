@@ -6,13 +6,7 @@
 - 🎯 **Career Goal**: Transitioning from academia to industry as an Algorithm engineer
 
 ## 👀 Professional Interests
-- **Applied AI**: Building production-ready ML systems that solve real business problems
-- **Graph Neural Networks**: Practical applications in recommendation systems, molecular modeling, and network analysis
-- **Computer Vision & 3D Vision**: 2D/3D reconstruction, object detection, depth estimation, point cloud processing
-- **Computer Graphics**: Rendering, geometric modeling, 3D visualization, neural rendering
-- **Numerical Algorithms**: Optimization methods, numerical linear algebra, scientific computing
-- **Digital Signal Processing**: Signal analysis, filtering, time-frequency analysis
-- **Deep Learning Engineering**: Scalable model deployment, optimization, and monitoring
+Applied AI, Graph Neural Networks, Computer Vision & 3D Vision, Computer Graphics, Numerical Algorithms, Digital Signal Processing, Deep Learning Engineering
 
 ## 💻 Technical Skills
 - **Languages**: Python, SQL, Git, MATLAB
