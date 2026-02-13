@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yakov Mishayev
 
 ## 🎓 About Me
-- 🔬 **Master's Student** in Applied Mathematics at Technion – Israel Institute of Technology
+- 🔬 **Master's Graduate** in Applied Mathematics at Technion – Israel Institute of Technology
 - 📚 **Research Focus**: Graph Neural Networks and solving real-world oversquashing problems in Message Passing Neural Networks
 - 🎯 **Career Goal**: Transitioning from academia to industry as an Algorithm engineer
 
